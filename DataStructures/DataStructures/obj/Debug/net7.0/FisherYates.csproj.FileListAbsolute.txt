@@ -1,0 +1,15 @@
+C:\Users\maxus\source\repos\FisherYates\FisherYates\bin\Debug\net7.0\FisherYates.exe
+C:\Users\maxus\source\repos\FisherYates\FisherYates\bin\Debug\net7.0\FisherYates.deps.json
+C:\Users\maxus\source\repos\FisherYates\FisherYates\bin\Debug\net7.0\FisherYates.runtimeconfig.json
+C:\Users\maxus\source\repos\FisherYates\FisherYates\bin\Debug\net7.0\FisherYates.dll
+C:\Users\maxus\source\repos\FisherYates\FisherYates\bin\Debug\net7.0\FisherYates.pdb
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.csproj.AssemblyReference.cache
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.AssemblyInfoInputs.cache
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.AssemblyInfo.cs
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.csproj.CoreCompileInputs.cache
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.dll
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\refint\FisherYates.dll
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.pdb
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\FisherYates.genruntimeconfig.cache
+C:\Users\maxus\source\repos\FisherYates\FisherYates\obj\Debug\net7.0\ref\FisherYates.dll
