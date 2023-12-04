@@ -4,6 +4,9 @@
 
 Big-O Notation is really interesting. I've kind of thought of optimization before, but it is really interesting to think of it as Constant, Linear, and Quadratic. I'm interested in working in games, and thinking of ways Linear algorithms could be used is really interesting (like storing randomly generated enemies in a list and pulling them out one at a time etc).
 
+## Fisher-Yates Shuffle:
+Fisher-Yates shuffle is an algorithm to randomize data in a way that any element as equal chance to be at any position in the collection. My app loads in data from the Read.txt and shuffles it using the algorithm as I understood it.
+
 ## Data Structures:
 
 Array: Collection of elements of the same type that can be accessed by their index. Useful for when you know the number of items won't change. Efficient for reading but not for adding/removing.

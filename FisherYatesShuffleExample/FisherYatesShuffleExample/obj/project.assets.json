@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\DataStructuresExample.csproj",
-      "projectName": "DataStructuresExample",
-      "projectPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\DataStructuresExample.csproj",
+      "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\FisherYatesShuffleExample.csproj",
+      "projectName": "FisherYatesShuffleExample",
+      "projectPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\FisherYatesShuffleExample.csproj",
       "packagesPath": "C:\\Users\\maxus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\obj\\",
+      "outputPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxus\\AppData\\Roaming\\NuGet\\NuGet.Config",

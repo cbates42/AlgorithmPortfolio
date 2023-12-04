@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxus\\source\\repos\\DataStructuresExample\\DataStructuresExample\\DataStructuresExample.csproj": {}
+    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\DataStructuresExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxus\\source\\repos\\DataStructuresExample\\DataStructuresExample\\DataStructuresExample.csproj": {
+    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\DataStructuresExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\DataStructuresExample\\DataStructuresExample\\DataStructuresExample.csproj",
+        "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\DataStructuresExample.csproj",
         "projectName": "DataStructuresExample",
-        "projectPath": "C:\\Users\\maxus\\source\\repos\\DataStructuresExample\\DataStructuresExample\\DataStructuresExample.csproj",
+        "projectPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\DataStructuresExample.csproj",
         "packagesPath": "C:\\Users\\maxus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxus\\source\\repos\\DataStructuresExample\\DataStructuresExample\\obj\\",
+        "outputPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\DataStructures\\DataStructuresExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxus\\AppData\\Roaming\\NuGet\\NuGet.Config",

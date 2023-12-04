@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\BigOExamples\\BigOExamples\\BigOExamples.csproj": {}
+    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\FisherYatesShuffleExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\BigOExamples\\BigOExamples\\BigOExamples.csproj": {
+    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\FisherYatesShuffleExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\BigOExamples\\BigOExamples\\BigOExamples.csproj",
-        "projectName": "BigOExamples",
-        "projectPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\BigOExamples\\BigOExamples\\BigOExamples.csproj",
+        "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\FisherYatesShuffleExample.csproj",
+        "projectName": "FisherYatesShuffleExample",
+        "projectPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\FisherYatesShuffleExample.csproj",
         "packagesPath": "C:\\Users\\maxus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\BigOExamples\\BigOExamples\\obj\\",
+        "outputPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\FisherYatesShuffleExample\\FisherYatesShuffleExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxus\\AppData\\Roaming\\NuGet\\NuGet.Config",
