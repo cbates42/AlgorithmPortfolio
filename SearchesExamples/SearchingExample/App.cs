@@ -69,6 +69,7 @@ namespace SearchingExample
             Console.WriteLine("Worst-case: O(n)\n Best-case: O(1)\n Average: O(n/2)");
             int n = list.Count;
 
+            //literally just loop through the dataset until you find the target.
             for(int i = 0; i < n; i++)
             {
                 if (list[i] == target)
@@ -88,15 +89,19 @@ namespace SearchingExample
             int L = 0;
             int R = list.Count - 1;
             
+            //keep looping until you've looked through the whole dataset
             while(L <= R)
             {
+                //find the middle
                 int m = L + (R - L) / 2;
 
+                 //if the target is higher than the middle, narrows the search
                 if (list[m] < target)
                 {
                     L = m + 1;
                 }
 
+                //if higher, narrows the search.
                 else if (list[m] > target)
                 {
                     R = m - 1;
@@ -118,10 +123,12 @@ namespace SearchingExample
             int low = 0;
             int high = list.Count - 1;
 
+            //keep looping, and make sure target is between the low/high ranges
             while(low <= high && target >= list[low] && target <= list[high])
             {
                 if(low == high)
                 {
+                    //if theres only one value left check if it's the target.
                     if (list[low] == target)
                         return low;
 
@@ -129,15 +136,19 @@ namespace SearchingExample
                     return -1;
                 }
 
+                //interpolation formula to estimate the target's position
                 int pos = low + (((high - low) / (list[high] - list[low])) * (target - list[low]));
 
+                //checks to see if the target is at the estimated position
                 if (list[pos] == target)
                     return pos;
 
+                //if target is higher than estimation, check the higher half
                 if (list[pos] < target)
                     low = pos + 1;
                 else
                     high = pos - 1;
+                //if target is lower, check the lower half
             }
             return -1;
 
