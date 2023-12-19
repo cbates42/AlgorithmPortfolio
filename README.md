@@ -16,3 +16,12 @@ Map/Dictionary: Stores data in key-value pairs. Each key is unique and mapped to
 Stack: Stores data with last-in first-out. Elements can only be added or removed from the top. Useful for things like an undo function. Efficient specifically for removing the latest element or adding a new element but not for accessing other elements and searching.
 
 Queue: Similar to Stack, but stores data with First-in first-out. Elements get added to the end of the line and are removed when they reach the front of the line. Useful when items need to be handled in order, literally like a line. Efficient for specifically adding elements to the end of the line and removing them from the front, not efficient for accessing other elements or searching.
+
+## Searches:
+
+Linear: Searches sequentially one at a time until it gets to the target value.
+Binary: Requires a sorted dataset, starts at the middle and sees if the middle number is higher or lower than the target, then looks at the middle the higher or lower halves until it finds the target.
+Interpolation: Similar to Binary, but instead of starting in the middle it can start at different values depending on the target.
+
+Linear is the slowest due to it literally working it's way up the dataset one by one, with no particular algorithm or mindset. Binary and Interpolation are different in that Binary
+will always start at the center of the dataset, while Interpolation has the potential to start in different places in the data.
