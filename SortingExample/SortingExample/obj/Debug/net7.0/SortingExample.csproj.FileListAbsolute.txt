@@ -1,0 +1,15 @@
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.csproj.AssemblyReference.cache
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.AssemblyInfoInputs.cache
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.AssemblyInfo.cs
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.csproj.CoreCompileInputs.cache
+C:\Users\maxus\source\repos\SortingExample\SortingExample\bin\Debug\net7.0\SortingExample.exe
+C:\Users\maxus\source\repos\SortingExample\SortingExample\bin\Debug\net7.0\SortingExample.deps.json
+C:\Users\maxus\source\repos\SortingExample\SortingExample\bin\Debug\net7.0\SortingExample.runtimeconfig.json
+C:\Users\maxus\source\repos\SortingExample\SortingExample\bin\Debug\net7.0\SortingExample.dll
+C:\Users\maxus\source\repos\SortingExample\SortingExample\bin\Debug\net7.0\SortingExample.pdb
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.dll
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\refint\SortingExample.dll
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.pdb
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\SortingExample.genruntimeconfig.cache
+C:\Users\maxus\source\repos\SortingExample\SortingExample\obj\Debug\net7.0\ref\SortingExample.dll

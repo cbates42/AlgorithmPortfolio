@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\SearchesExamples\\SearchingExample\\SearchingExample.csproj": {}
+    "C:\\Users\\maxus\\source\\repos\\SortingExample\\SortingExample\\SortingExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\SearchesExamples\\SearchingExample\\SearchingExample.csproj": {
+    "C:\\Users\\maxus\\source\\repos\\SortingExample\\SortingExample\\SortingExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\SearchesExamples\\SearchingExample\\SearchingExample.csproj",
-        "projectName": "SearchingExample",
-        "projectPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\SearchesExamples\\SearchingExample\\SearchingExample.csproj",
+        "projectUniqueName": "C:\\Users\\maxus\\source\\repos\\SortingExample\\SortingExample\\SortingExample.csproj",
+        "projectName": "SortingExample",
+        "projectPath": "C:\\Users\\maxus\\source\\repos\\SortingExample\\SortingExample\\SortingExample.csproj",
         "packagesPath": "C:\\Users\\maxus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxus\\source\\repos\\AlgorithmPortfolio\\AlgorithmPortfolio\\SearchesExamples\\SearchingExample\\obj\\",
+        "outputPath": "C:\\Users\\maxus\\source\\repos\\SortingExample\\SortingExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxus\\AppData\\Roaming\\NuGet\\NuGet.Config",

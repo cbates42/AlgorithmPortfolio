@@ -17,6 +17,10 @@ Stack: Stores data with last-in first-out. Elements can only be added or removed
 
 Queue: Similar to Stack, but stores data with First-in first-out. Elements get added to the end of the line and are removed when they reach the front of the line. Useful when items need to be handled in order, literally like a line. Efficient for specifically adding elements to the end of the line and removing them from the front, not efficient for accessing other elements or searching.
 
+## Sorts:
+Program has three examples of sorting algorithms: Bubble Sort, Insertion Sort, and Selection Sort. Each one displays the time
+it took for it to sort the dataset, along with a brief description of the sorting types. 
+
 ## Searches:
 
 Linear: Searches sequentially one at a time until it gets to the target value.

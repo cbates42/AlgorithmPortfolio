@@ -29,14 +29,14 @@ namespace SearchingExample
                         }
                         else
                         {
-                            Console.WriteLine($"Non-integer line encountered: {line}");
+                            Console.WriteLine($"non-int line: {line}");
                         }
                     }
                 }
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error reading the file: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}");
             }
 
             data.Sort();
